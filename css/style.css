@@ -30,9 +30,13 @@ body {
   height: 330px;
   border-radius: 20px;
 }
-#wrapper h2,
+#wrapper h1 {
+  width: 330px;
+  margin-top: 28px;
+  font-size: 1.6rem;
+}
 #wrapper p {
-  width: 280px;
+  width: 330px;
   margin-top: 28px;
 }
 
