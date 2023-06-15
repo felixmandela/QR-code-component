@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/felixmandela/QR-code-component)
+- Live Site URL: [](https://qr-code-component-xi-three.vercel.app/)
 
 ## My process
 
@@ -30,11 +30,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
+- SCSS
 - Flexbox
 - Mobile-first workflow
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Felix Mandela](https://felixmandela.vercel.app/)
+- Twitter - [@flxmandela](https://www.twitter.com/flxmandela)
